@@ -7,3 +7,5 @@
   - Greedy Algorithm
 * [CD to Tape](CDtoTape2.cpp): [Online Judge](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=565)
   - Backtracking
+* [Rat in a Maze](RatinaMaze.cpp): [CodeChef](https://www.codechef.com/problems/BPHC03)
+  - Backtracking
