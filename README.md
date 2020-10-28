@@ -16,3 +16,7 @@
   
 * [Playing with Wheels](Wheels.cpp): [UVa Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=37&page=show_problem&problem=1008)
   - A*
+
+* [Playboy Chimp](PlayboyChimp.cpp): [UVa Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552)
+
+* [Solve It](SolveIt.cpp): [UVa Online Judge](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1282)
