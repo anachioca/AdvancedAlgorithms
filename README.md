@@ -20,3 +20,6 @@
 * [Playboy Chimp](PlayboyChimp.cpp): [UVa Online Judge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552)
 
 * [Solve It](SolveIt.cpp): [UVa Online Judge](https://onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1282)
+* [Luggage](Luggage.cpp)
+  - Dynamic Programming
+* [Nested Russian Dolls](NestedDolls.cpp)
